@@ -1,1 +1,1 @@
-go.eml.shopify.com
+shopify.com
